@@ -38,6 +38,7 @@ npm run build
 > You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
 
 ## Installing tailwind css in svelte kit
+```bash
 npm init svelte@next my-app
 npm install
 npm run dev -- --open
@@ -45,3 +46,8 @@ npm run dev -- --open
 npx svelte-add tailwindcss
 npm i
 npm run dev -- --open
+
+```
+
+
+
